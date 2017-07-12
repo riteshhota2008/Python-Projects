@@ -26,4 +26,6 @@
 
 **Credit Card Validator** - Takes in a credit card number from a common credit card vendor (Visa, MasterCard, American Express, Discover) and validates it to make sure that it is a valid number (look into how credit cards use a checksum).
 
+**Tax Calculator** - Asks the user to enter a cost and either a country or state tax. It then returns the tax plus the total cost with tax.
+
 
