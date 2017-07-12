@@ -22,4 +22,6 @@
 
 **Alarm Clock** - A simple clock where it plays a sound after X number of minutes/seconds or at a particular time. 
 
+**Distance Between Two Cities** - Calculates the distance between two cities and allows the user to specify a unit of distance. This program may require finding coordinates for the cities like latitude and longitude.
+
 
